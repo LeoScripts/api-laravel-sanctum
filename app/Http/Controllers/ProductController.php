@@ -31,7 +31,6 @@ class ProductController extends Controller
             'price' => 'required'
         ]);
 
-        // criando todos campos
         return Product::create($request->all());
     }
 
@@ -43,9 +42,8 @@ class ProductController extends Controller
      */
     public function show($id)
     {
-        // o find recupera um modelo por sua primary key
-        // return Product::find($id); // com pouca segurança
-        return Product::findOrFail($id); //com segurança
+
+        return Product::findOrFail($id);
     }
 
     /**
