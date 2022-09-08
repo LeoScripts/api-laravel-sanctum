@@ -46,27 +46,34 @@
 
 ## :dart: About ##
 
-Describe your project
+Api rest with login and CRUD of products
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+
+:heavy_check_mark: create products;\
+:heavy_check_mark: list products;\
+:heavy_check_mark: list one product;\
+:heavy_check_mark: update products;\
+:heavy_check_mark: delete product;\
+:heavy_check_mark: search product;\
+
+:heavy_check_mark: create user;\
+:heavy_check_mark: login;\
+:heavy_check_mark: logout;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
+- [PHP](https://www.php.net/)
+- [Laravel](https://laravel.com/)
+- [Docker](https://www.docker.com/)
+- [MySQL](https://www.mysql.com/)
+- Adminer SGBD
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [php](https:), [composer](https://) and [Docker](https://) installed.
+
 
 ## :checkered_flag: Starting ##
 
