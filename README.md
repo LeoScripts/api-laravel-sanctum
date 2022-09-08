@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Api rest with login and CRUD of products
+Api rest with login and CRUD of products finalized in 21/07/2022.
 
 ## :sparkles: Features ##
 
